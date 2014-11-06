@@ -1,7 +1,7 @@
-1d07afd763d6552f8ea70bb08699a0a2 *DESCRIPTION
-2f98a6e50fb3d39821f0a8b3b11a57f1 *NAMESPACE
-ba71c3521cd876dd121a6c3a266b3cd3 *R/generate.clonal.data.R
+143fe08d1e03a72821f52de526ffade0 *DESCRIPTION
+d39eeb9fddbb5999a13a07fb3f260283 *NAMESPACE
+c84d897e5dc2061e4a8b0e5eac8886f5 *R/generate.clonal.data.R
 94091bdda919f16c3adf8ce86ca336ac *R/infer.clonality.R
 3faa927d0c3e5ef5bd7b83b302239749 *man/generate.clonal.data.Rd
 96838fd2e0b57b66ff370089a9319143 *man/infer.clonality.Rd
-ab156d4e9036dfefdce72a84a90f23f5 *man/lymphclon-package.Rd
+321b4a367feac7f308b213cae597f96c *man/lymphclon-package.Rd
